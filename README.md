@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satish Tirumalapudi</h1>
-<h3 align="center">A Information Systems student at GSU</h3>
+<h3 align="center">A computer Information Systems student at GSU</h3>
 
 - 🌱 I’m currently learning **GANs,CNN, Network analysis and Hypergraphs**
 
