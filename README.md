@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GANs,CNN, Network analysis and Hypergraphs**
 
-- 📫 How to reach me **stirumalapudi1@student1.gsu.edu**
+- 📫 How to reach me **satishtirumalapudi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
